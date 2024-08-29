@@ -1,0 +1,14 @@
+// This kalit so'zini
+<!-- I Kirsh -->
+
+this , this kod ichida turli kontekslarda har xil qiymatlarga ega bo'lishi mumkin.
+This kalit so'zini yaxshi tushinish , murakkab JS kodlarni yozishda va o'qish qo'l keladi.
+
+Misol uchun silar bilan gaplashiyabman va "men" aytayotganimda, bu so'z meni anglatadi,
+JS'da ham huddi shunga o'xshash ko'rinishda ishlaydi.
+
+<!-- II Uning ishlatilishi -->
+
+This Global konteksda odatda "window" objectini anglatadi (browserda ishlayotganda)
+
+console.log(this)
